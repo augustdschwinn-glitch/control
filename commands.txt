@@ -1,0 +1,5 @@
+MESSAGE:Hej från servern!
+DELAY:2
+SPAMMESSAGE:HAHA!,3
+DELAY:2
+OPEN:https://youtube.com
