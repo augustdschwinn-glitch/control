@@ -1,2 +1,2 @@
-CLEAR
+OPEN:https://www.youtube.com/
 WAIT
