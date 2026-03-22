@@ -1,2 +1,3 @@
 MESSAGE:testt
-
+DELAY:6
+LOOP:7
