@@ -1,3 +1,1 @@
-OPEN:https://youtube.com
-DELAY:7
-CLEAR
+MESSAGE:Test
