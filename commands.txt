@@ -1,2 +1,2 @@
-MESSAGE:tes
+MESSAGE:test
 LOOP
